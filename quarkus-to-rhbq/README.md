@@ -48,6 +48,8 @@
  <activeProfile>red-hat-enterprise-maven-repository</activeProfile>
 </activeProfiles>
 ```
-   
+3. Optional: If you do not want to use the online Maven repository, you can download and configure the Quarkus Maven repository to create a Quarkus application with Maven.
+
 # Links
 1. https://access.redhat.com/documentation/en-us/red_hat_build_of_quarkus/2.2/guide/e75e6f99-0d92-4236-bfb8-2de30a6a605d#proc-online-maven_quarkus-getting-started
+2. https://access.redhat.com/documentation/en-us/red_hat_build_of_quarkus/2.2/guide/e75e6f99-0d92-4236-bfb8-2de30a6a605d#proc-download-maven_quarkus-getting-started
